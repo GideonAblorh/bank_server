@@ -1,0 +1,23 @@
+{
+  "name": "bank_server",
+  "version": "1.0.0",
+  "description": "This server helps you to manage your bank account",
+  "main": "index.js",
+  "author": "Gideon Osekre",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bank",
+    "Account",
+    "Server"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
